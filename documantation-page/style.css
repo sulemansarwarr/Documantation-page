@@ -1,0 +1,28 @@
+.container{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100%;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+}
+.border-left{
+    border-left: 2px solid black;
+}
+
+.p1{
+    padding: 10px;
+}
+.p2{
+    padding: 20px;
+}
+.text-allign{
+    text-align: start;
+}
+.font-size{
+    font-size: xx-large;
+}
+.top-border{
+    border-top: 1px solid black;
+}
